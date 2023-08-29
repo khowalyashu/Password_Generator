@@ -20,5 +20,7 @@ The Random Password Generator is a web-based tool that generates strong and secu
    ```bash
    git clone https://github.com/your-username/random-password-generator.git
 ## Deployed Link
-https://main--wondrous-pika-fc8dee.netlify.app/
+   ```bash
+   https://main--wondrous-pika-fc8dee.netlify.app/
+
    
